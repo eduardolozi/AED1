@@ -3,3 +3,5 @@ Estruturas estudadas:
 - Filas: vetoriais, encadeadas.
 - Pilhas: vetoriais, encadeadas.
 - Listas: vetoriais, encadeadas.
+
+Também foram apresentados e estudados métodos de ordenação e busca.
